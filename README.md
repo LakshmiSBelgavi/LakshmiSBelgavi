@@ -40,6 +40,17 @@ Curious about what I'm building?
 
 ---
 
+### 🚀 Featured Projects
+<a href="https://github.com/LakshmiSBelgavi/Sql_Murder_Mystery">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LakshmiSBelgavi&repo=Sql_Murder_Mystery&theme=radical" />
+</a>
+
+<a href="https://github.com/LakshmiSBelgavi/Lung_Nodule_Detection_using_CTScans">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LakshmiSBelgavi&repo=Lung_Nodule_Detection_using_CTScans&theme=radical" />
+</a>
+
+
+
 ## 🌈 A Bit More About Me  
 - 🎨 I sketch anime when inspiration strikes  
 - 📚 Currently hooked on reading books that grow my mind
