@@ -36,7 +36,7 @@
 
 ## 🚀 Peek Into My Repos  
 Curious about what I'm building?  
-👉 Check out my repositories — it's all happening there!
+👉 Check out my repositories — it's all happening there !
 
 ---
 
