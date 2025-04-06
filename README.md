@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Lakshmi Belgavi  
+# 👋 Hey there, I'm Lakshmi Belgavi
 
 🌟 Information Science Engineer Graduate | Aspiring Software Engineer  
 💻 Python enthusiast on a mission to blend logic with a little bit of universe magic 🌌  
