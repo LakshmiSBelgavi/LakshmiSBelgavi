@@ -43,6 +43,9 @@ Curious about what I'm building?
 ---
 
 ### 🚀 Featured Projects
+<a href="https://github.com/LakshmiSBelgavi/foodOnline.git">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LakshmiSBelgavi&repo=foodOnline&theme=radical" />
+</a>
 
 <a href="https://github.com/LakshmiSBelgavi/Sql_Murder_Mystery">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=LakshmiSBelgavi&repo=Sql_Murder_Mystery&theme=radical" />
