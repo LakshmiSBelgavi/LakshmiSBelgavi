@@ -8,7 +8,7 @@
 
 ## 🔭 What I'm Up To
 - 🧠 Sharpening my DSA skills in Python  
-- 🛠️ Building something cool with Django (stay tuned 👀)  
+- ✅ Recently built a cool project with Django!  
 - 🌱 Leveling up, learning, and evolving — every single day  
 
 ---
